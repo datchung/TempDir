@@ -2,6 +2,10 @@
 
 Create a temporary directory that disposes itself after usage.
 
+# Install
+
+TODO
+
 # Example Usage
 
 ```c#
